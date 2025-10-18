@@ -70,14 +70,14 @@ bash
 📁 Project Structure
 text
 
-password-generator/
-├── main.py              # Main application entry point
-├── passgen.py           # Alternative implementation
-├── generator.py         # Password generation logic
-├── character_sets.py    # Character set definitions
-├── widgets.py           # UI component functions
-├── requirements.txt     # Project dependencies
-└── Password Generator.spec  # PyInstaller configuration
+    password-generator/
+    ├── main.py              # Main application entry point
+    ├── passgen.py           # Alternative implementation
+    ├── generator.py         # Password generation logic
+    ├── character_sets.py    # Character set definitions
+    ├── widgets.py           # UI component functions
+    ├── requirements.txt     # Project dependencies
+    └── Password Generator.spec  # PyInstaller configuration
 
 🏗️ Architecture
 
